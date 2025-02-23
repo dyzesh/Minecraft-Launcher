@@ -1,2 +1,2 @@
-# minecraft-launcher
+# Minecraft-Launcher
 Minecraft Launcher C#
